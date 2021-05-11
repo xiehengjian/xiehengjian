@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 ## DIY 
+[myGee](https://github.com/xiehengjian/myGee)
 
 ## Project
 
 [LarkBot](https://github.com/xiehengjian/LarkBot)
 
-[myGee](https://github.com/xiehengjian/myGee)
+
 
 <!--
 **xiehengjian/xiehengjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
