@@ -1,31 +1,33 @@
-### Hi there 👋
 
-## DIY 
-[myGee](https://github.com/xiehengjian/myGee)
+<p align="center"> 
+ <img src="https://profile-counter.glitch.me/xiehengjian/count.svg"/>
+</p>
 
-[GRequests](https://github.com/xiehengjian/GRequests)
+<a href="https://github.com/xiehengjian">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=xiehengjian&show_icons=truet&include_all_commits=True&hide=contribs"/>
+</a>
 
-## Project
+<a href="https://github.com/xiehengjian">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=xiehengjian&layout=compact" />
+</a>
 
-[GLarkBot](https://github.com/xiehengjian/GLarkBot)
+<br>
+<br>
 
-## LeetCode
+🔭 I’m currently working on and learning:
+  - Container
+  - Ai for System
 
-[LeetCode](https://github.com/xiehengjian/LeetCode)
+:trophy: Competition
+
+    
+:wrench: Project
 
 
 
-<!--
-**xiehengjian/xiehengjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/xiehengjian/yidianzixun-ctr-top1">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=xiehengjian&repo=GLarkBot&theme=" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
